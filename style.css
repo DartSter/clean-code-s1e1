@@ -42,10 +42,12 @@
   margin: 0;
   padding: 0px;
 }
-.task-item, .container-title {
+.task-item,
+.container-title {
   list-style: none;
 }
-input,.button{
+input,
+.button{
   outline: none;
 }
 .button {
@@ -118,7 +120,7 @@ input,.button{
   font-size: 18px;
   width: 226px;
 }
-.task-item >    .task-input {
+.task-item > .task-input {
   width: 226px
 }
 .delete-button-img {
